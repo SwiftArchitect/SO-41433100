@@ -8,7 +8,7 @@
 
 ### Stack Overflow Question 41433100
 
-Xcode project & source code related to [Subclass `UINavigationController`](http://stackoverflow.com/a/41481876/218152) answer.
+Xcode project & source code related to [Subclass `UINavigationController`](https://stackoverflow.com/questions/41433100/uinavigationcontroller-show-embedded-view-controllers-with-different-orientatio/41481876#41481876) answer.
 
 ![animation](https://i.stack.imgur.com/r3Wua.gif)
 
@@ -22,6 +22,6 @@ Xcode project & source code related to [Subclass `UINavigationController`](http:
 
 **References:**
 
-- [SO-41433100](http://stackoverflow.com/questions/41433100/uinavigationcontroller-show-embedded-view-controllers-with-different-orientatio) on Stack Overflow
+- Question [41433100](https://stackoverflow.com/questions/41433100) on Stack Overflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
